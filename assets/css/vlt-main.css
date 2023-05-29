@@ -172,7 +172,8 @@
 }
 
 .has-contact-color {
-    color: #7a41b0 !important
+    color: #7a41b0 !important;
+    box-shadow: 5px 5px 5px white;
 }
 
 .has-purple-color {
